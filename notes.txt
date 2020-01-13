@@ -1,0 +1,4 @@
+git commit -m "First Commit"
+git status
+git remote add origin
+git push -u
